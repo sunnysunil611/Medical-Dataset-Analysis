@@ -1,7 +1,5 @@
 # Medical-Dataset-Analysis
 
-# Medical Dataset Analysis
-
 ## Overview
 
 This repository contains code and documentation for analyzing a medical dataset to extract insights and patterns.
